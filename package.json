@@ -3,7 +3,8 @@
   "displayName": "Tomorrow Night IJ",
   "description": "Tomorrow Night theme matching IntelliJ IDEA's version",
   "version": "1.0.0",
-  "publisher": "Arkadiy Dymkov-Weinstein",
+  "publisher": "Arkadiy-Dymkov-Weinstein",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -28,16 +29,16 @@
       {
         "label": "Tomorrow Night IJ",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tommorow-Night-IJ-color-theme.json"
+        "path": "./themes/Tomorrow-Night-IJ-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/tomorrow-night-ij.git"
+    "url": "https://github.com/Arkady-Dymkov/tommorow-night-ij.git"
   },
-  "homepage": "https://github.com/yourusername/tomorrow-night-ij",
+  "homepage": "https://github.com/Arkady-Dymkov/tommorow-night-ij",
   "bugs": {
-    "url": "https://github.com/yourusername/tomorrow-night-ij/issues"
+    "url": "https://github.com/Arkady-Dymkov/tommorow-night-ij/issues"
   }
 }
